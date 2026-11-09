@@ -1,0 +1,10 @@
+.gradle/
+.kotlin/
+build/
+**/build/
+.idea/
+local.properties
+*.jks
+*.keystore
+.native-build/
+app/libs/*.aar
